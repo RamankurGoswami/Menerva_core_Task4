@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/menerva_core_task4/static/css/main.6ee3610c.chunk.css",
+    "main.js": "/menerva_core_task4/static/js/main.e0ce3e7a.chunk.js",
+    "main.js.map": "/menerva_core_task4/static/js/main.e0ce3e7a.chunk.js.map",
+    "runtime-main.js": "/menerva_core_task4/static/js/runtime-main.b0bdbb20.js",
+    "runtime-main.js.map": "/menerva_core_task4/static/js/runtime-main.b0bdbb20.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/menerva_core_task4/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.1c996740.chunk.js": "/menerva_core_task4/static/js/2.1c996740.chunk.js",
+    "static/js/2.1c996740.chunk.js.map": "/menerva_core_task4/static/js/2.1c996740.chunk.js.map",
+    "static/js/3.81ee009a.chunk.js": "/menerva_core_task4/static/js/3.81ee009a.chunk.js",
+    "static/js/3.81ee009a.chunk.js.map": "/menerva_core_task4/static/js/3.81ee009a.chunk.js.map",
+    "index.html": "/menerva_core_task4/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/menerva_core_task4/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.6ee3610c.chunk.css.map": "/menerva_core_task4/static/css/main.6ee3610c.chunk.css.map",
+    "static/js/2.1c996740.chunk.js.LICENSE.txt": "/menerva_core_task4/static/js/2.1c996740.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0bdbb20.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.1c996740.chunk.js",
+    "static/css/main.6ee3610c.chunk.css",
+    "static/js/main.e0ce3e7a.chunk.js"
+  ]
+}
