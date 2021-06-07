@@ -20,8 +20,8 @@ function CardDetail() {
                 </div>
 
                 <div className="cardinfo__name">
-                    <img src="/images/person.png" alt="" />
-                    <p>Harry Potter</p>
+                    <img src="/public/images/person.png" alt="" />
+                    <p> Harry potter </p>
                     <GroupAddIcon style={{
                         marginLeft: "auto",
                         marginRight: "18px",
